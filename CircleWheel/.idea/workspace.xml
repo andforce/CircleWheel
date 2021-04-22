@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1443239f-77d2-4960-a1ec-c40af10e6a3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proguard-project.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-hdpi/icon_facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-hdpi/icon_google.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-hdpi/icon_linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-hdpi/icon_myspace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-hdpi/icon_twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-hdpi/icon_wordpress.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-ldpi/icon_facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-ldpi/icon_google.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-ldpi/icon_linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-ldpi/icon_myspace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-ldpi/icon_twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-ldpi/icon_wordpress.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-mdpi/icon_facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-mdpi/icon_google.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-mdpi/icon_linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-mdpi/icon_myspace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-mdpi/icon_twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-mdpi/icon_wordpress.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-xhdpi/icon_facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-xhdpi/icon_google.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-xhdpi/icon_linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-xhdpi/icon_myspace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-xhdpi/icon_twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/drawable-xhdpi/icon_wordpress.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values-v11/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values-v14/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values/attrs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/szugyi/circlemenu/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/szugyi/circlemenu/view/CircleImageView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/szugyi/circlemenu/view/CircleLayout.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1rVxEXuuyQxgGm4VZjU26NmU8x6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/android-sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1443239f-77d2-4960-a1ec-c40af10e6a3c" name="Default Changelist" comment="" />
+      <created>1619074946492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619074946492</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="323" y="742" width="424" height="484" key="FileChooserDialogImpl" timestamp="1619075202257">
+      <screen x="0" y="27" width="1080" height="1858" />
+    </state>
+    <state x="323" y="742" width="424" height="484" key="FileChooserDialogImpl/1080.0.1080.1920/0.27.1080.1858@0.27.1080.1858" timestamp="1619075202257" />
+  </component>
+</project>
